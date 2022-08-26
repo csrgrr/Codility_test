@@ -10,3 +10,4 @@ class Solution { public int solution(int[] X, int[] Y, String colors); }
 
 that, given two arrays of integers X, Y and a string colors, returns an integer specifying the maximum number of points inside a circle containing an equal number of red points and green points.
 
+![chart](chart.png)
